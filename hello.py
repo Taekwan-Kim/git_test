@@ -1,7 +1,7 @@
 // For command line git tutorial
 // GitHub modification
 // local modification
-// remote modification
+// remote2 modification
 
 print("Hello world!")
 print("Tell your world")
